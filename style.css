@@ -1,0 +1,11 @@
+#larry_head{
+    transform: scaleX(-1);
+}
+#what_is_header{
+    padding-top: 30px;
+    padding-left: 10px;
+}
+#what_is{
+    padding-top: 10px;
+    padding-left: 10px;
+}
